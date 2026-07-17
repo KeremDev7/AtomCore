@@ -1,0 +1,17 @@
+# ==========================================
+#              ATOMCORE CONFIG
+# ==========================================
+
+# The title displayed at the top of the scoreboard.
+# You can use standard Minecraft color codes (&).
+scoreboard-title: "&6&lAmber's SMP"
+
+# Economy Settings / Ekonomi Ayarlari
+# The currency symbol displayed next to prices (e.g., $, €, ⛃, ₺)
+currency-symbol: "$"
+
+# The amount of money a new player starts with.
+starting-balance: 100.0
+
+# The maximum amount of money a player can hold.
+max-money: 1000000.0

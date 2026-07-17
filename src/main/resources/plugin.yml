@@ -1,0 +1,24 @@
+name: AtomCore
+version: 1.0
+main: com.kerem.core2.CorePlugin
+api-version: '1.20'
+commands:
+  lang:
+    description: Toggles the player language between English and Turkish.
+    aliases: [language]
+  shop:
+    description: Opens the main shop GUI for purchasing and selling items.
+  tpa:
+    description: Sends a teleportation request to a specific player.
+  tpaccept:
+    description: Accepts an incoming teleportation request.
+  tpdeny:
+    description: Denies an incoming teleportation request.
+  sethome:
+    description: Saves the player's current location as their home.
+  home:
+    description: Teleports the player to their saved home location.
+  sb:
+    description: Toggles the visibility of the sidebar scoreboard.
+  help:
+    description: Displays the AtomCore help menu with all commands.
